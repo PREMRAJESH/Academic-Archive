@@ -2,7 +2,7 @@
 
 Nexus is a premium research publication management ecosystem designed for scholarly communities, university presses, and independent researchers. It streamlines the entire academic lifecycle—from manuscript submission and peer review to final digital preservation and public dissemination.
 
-![Academic Archive Banner](Nexus/assets/images/hero-library.png)
+![Academic Archive Banner](nexus/assets/images/hero-library.png)
 
 ---
 
