@@ -1,0 +1,23 @@
+# Academic Archive - Git Ignore
+# ============================================================
+
+# User Uploads (Don't push private research docs)
+nexus/uploads/*
+!nexus/uploads/.gitkeep
+
+# Environments & sensitive local config
+nexus/config/db_local.php
+.env
+
+# Database backups
+*.sql
+!nexus/nexus_db.sql
+
+# Operating System & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+tmp/
+C:\xampp\
